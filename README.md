@@ -1,13 +1,14 @@
-Patient Appointment Booking System
+<b>Patient Appointment Booking System</b>
 A REST API built with Spring Boot and MySQL to manage patient appointments. This project allows you to add patients, register doctors, and book appointments between them.
-Tech Stack
+<br>
+<b>Tech Stack</b>
 
 Java, Spring Boot
 Spring Data JPA
 MySQL
 Postman (for testing)
-
-Features
+<br>
+<b>Features</b>
 
 Add and manage patients
 Add and manage doctors
